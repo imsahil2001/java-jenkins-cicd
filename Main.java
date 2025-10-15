@@ -6,6 +6,8 @@ public class Main{
 		
 		System.out.println("this is the new commit that should be seen AFTER PUSH");
 		
+		System.out.println("this is the new commit that should be seen AFTER PUSH -- 2");
+		
 	}
 	
 }
